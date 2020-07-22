@@ -1,0 +1,7 @@
+ul, li {
+  list-style-type: none;
+}
+.highlight {
+  color: red;
+  font-weight: bold;
+}

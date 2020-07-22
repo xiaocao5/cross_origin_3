@@ -1,0 +1,3 @@
+  jQuery+nodeJS+jsonp跨域+requireJS+mustacheJS
+  de1.html, de3.html, de4.css, main.js位于http://127.0.0.1:8080服务器
+  在de2.js目录，运行node de2.js
